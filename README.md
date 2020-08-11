@@ -25,3 +25,4 @@ WHR is the distance measured from cheekbone to cheekbone versus the distance bet
 CNN VGG16 Model: 
 This model achieves 92.7% top-5 test accuracy in ImageNet, which is a dataset of over 14 million images belonging to 1000 classes. The increased accuracy is obtained by replacing large kernel-sized filters with multiple small kernel-sized filters one after another. The classification model has been trained to recognize facial emotions like Anger, Sadness, Happiness, Surprise, Neutral, Fear etc
 
+![output](https://github.com/sannu01/Facial-Emotion/blob/master/output_main.png)
